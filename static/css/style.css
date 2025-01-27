@@ -1,0 +1,14 @@
+@font-face {
+	font-family: 'GuanZhi';
+	src: url('../fonts/GuanZhi-8px.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HackerNoonV2';
+	src: url('../fonts/HackerNoonV2-Regular.ttf');
+	font-weight: 500;
+	font-style: normal;
+}
+
